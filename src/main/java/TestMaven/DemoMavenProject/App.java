@@ -12,8 +12,12 @@ public class App
             System.out.println( "Hello World22!!!!!!!!!!!" );
             System.out.println( "Hello Anand" );
             System.out.println( "Hello Anand how are you" );
+<<<<<<< HEAD
             System.out.println( "Hello this is arpit and anand" );
             
+=======
+            System.out.println( "Hello this is not arpit" );
+>>>>>>> branch 'master' of https://github.com/arpitag93/First-Demo-Repository.git
 
     }
 }
